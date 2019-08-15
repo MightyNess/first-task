@@ -21,3 +21,12 @@ Format is as given below:
    and any other details you wish to add. <br />
 
 -----------------------------------------------
+2. Name: Adebola Goodness <br >
+   Email: adebolagoodness1999@gmail.com <br >
+   Training Track: Graphic Design <br >
+   Skill: Designer, software Developer <br >
+   Github: @MightyNess <br >
+   Twitter: @TjAAdebola <br >
+   Instagram: @MightyNess <br >
+   
+-----------------------------------------------
